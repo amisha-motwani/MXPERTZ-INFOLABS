@@ -1,0 +1,10 @@
+.navbar {
+    background: url('Space.jpeg') no-repeat center center;
+    background-size: cover;
+    // background-color: pink; /* This will be the fallback color if the image fails to load */
+}
+.genre {
+    background: linear-gradient(to right, #00ff00, #87ceeb);
+    // -webkit-background-clip: text;
+    // -webkit-text-fill-color: transparent;
+  }
